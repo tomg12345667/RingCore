@@ -1,0 +1,167 @@
+RingCore Community License (RCL)
+Version 1.0
+
+Copyright (c) 2026 RingCore Project
+All Rights Reserved.
+
+========================================================
+RingCore Community License Agreement
+========================================================
+
+By installing, using, modifying, or distributing RingCore,
+you agree to the terms of this license.
+
+--------------------------------------------------------
+1. Permitted Use
+--------------------------------------------------------
+
+RingCore may be freely used for:
+- personal use
+- educational use
+- lab and testing environments
+- internal business use
+- hotels and hospitality systems
+- schools and universities
+- healthcare organizations
+- government agencies
+- emergency services
+- telecommunications environments
+
+Organizations may deploy and operate RingCore internally
+without additional licensing unless otherwise specified.
+
+--------------------------------------------------------
+2. Modification
+--------------------------------------------------------
+
+Users may modify RingCore for private or internal use.
+
+Modified versions must not imply official endorsement
+by the RingCore Project.
+
+--------------------------------------------------------
+3. Redistribution
+--------------------------------------------------------
+
+Redistribution of unmodified copies of RingCore is permitted
+provided that:
+- this license remains included
+- copyright notices remain intact
+- official branding is preserved
+
+Redistribution of modified versions must:
+- clearly document modifications
+- not claim to be official RingCore releases
+- not use official RingCore branding without authorization
+
+--------------------------------------------------------
+4. OEM and Commercial Redistribution Restrictions
+--------------------------------------------------------
+
+Without explicit written authorization from the RingCore
+Project, RingCore may NOT be:
+
+- redistributed as a commercial appliance or OEM product
+- white-labeled or rebranded as another platform
+- sold as a hosted PBX or SaaS platform
+- commercially sublicensed as a standalone telecommunications system
+
+Official branding, licensing systems, and identifying
+marks may not be removed or altered without authorization.
+
+Unauthorized OEM redistribution of RingCore is strictly
+prohibited.
+
+--------------------------------------------------------
+5. RingNet Licensing
+--------------------------------------------------------
+
+Licenses may be issued directly by the Administration
+of RingNet upon approval.
+
+Verified RingNet members may receive complimentary
+licenses for eligible editions of RingCore.
+
+--------------------------------------------------------
+6. Third-Party Components
+--------------------------------------------------------
+
+RingCore may include or interface with third-party
+software components licensed separately, including:
+- Asterisk
+- Linux system packages
+- Node.js modules
+- frontend libraries
+- database systems
+
+Those components remain governed by their respective
+licenses.
+
+Nothing in this license overrides applicable open-source
+licenses governing third-party software.
+
+--------------------------------------------------------
+7. Credits
+--------------------------------------------------------
+
+Official RingCore sound packs graciously provided by
+Liam Kandell.
+
+Additional acknowledgements may appear throughout the
+software and documentation.
+
+--------------------------------------------------------
+8. Trademark and Branding
+--------------------------------------------------------
+
+The following are protected property of the RingCore Project:
+- RingCore
+- RingNet
+- official logos
+- branding assets
+- visual identity
+
+Use of official branding in redistributed or modified
+versions requires written permission.
+
+--------------------------------------------------------
+9. Warranty Disclaimer
+--------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+- SERVICE AVAILABILITY
+- TELECOMMUNICATIONS RELIABILITY
+
+Use of RingCore in production environments is at the
+user's own risk.
+
+--------------------------------------------------------
+10. Limitation of Liability
+--------------------------------------------------------
+
+IN NO EVENT SHALL THE AUTHORS, CONTRIBUTORS, DEVELOPERS,
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DAMAGES ARISING
+FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+This includes but is not limited to:
+- business interruption
+- telecommunications failures
+- configuration errors
+- data loss
+- security incidents
+- financial damages
+
+--------------------------------------------------------
+11. Termination
+--------------------------------------------------------
+
+Violation of this license automatically terminates the
+rights granted under this agreement.
+
+========================================================
+End of License
+========================================================
